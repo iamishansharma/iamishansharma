@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/Banner.jpg" width="300">
+  <img src="Banner.jpg" width="300">
 </p>
 
 Currently an undergrad student for MSc. Chemistry and B.E. Computer Science at BITS Pilani, Pilani Campus
