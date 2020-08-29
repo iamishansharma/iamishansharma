@@ -3,7 +3,7 @@
 </p>
 
 Currently an undergrad student for <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/flask.png" width="30" height="30"> MSc. Chemistry and <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/monitor.png" width="30" height="28"> B.E. Computer Science at BITS Pilani, Pilani Campus
-<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/piano.png" width="30" height="30"> Keyboardist, <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/electric-guitar.png" width="30" height="30"> Guitarist and an avid   <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/f1.png" width="50" height="23"> Formula1 Fan
+<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/piano.png" width="30" height="30"> Keyboardist, <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/electric-guitar.png" width="30" height="30"> Guitarist and an avid   <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/f1.png" width="55" height="23"> Formula1 Fan
 
 ## Where to find me?
 
