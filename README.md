@@ -10,8 +10,8 @@ Currently an undergrad student for <img src="https://github.com/iamishansharma/i
 [<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/facebook.png" width="30" height="30">](https://www.facebook.com/Capt.ishan.sharma/) [<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/instagram-sketched.png" width="30" height="30">](https://www.instagram.com/captainishansharma/) 
 [<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/twitter.png" width="30" height="30">](https://twitter.com/iamishansharma)
 [<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/linkedin.png" width="30" height="30">](https://www.linkedin.com/in/iamishansharma/)<br />
-<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/brands-and-logotypes.png" width="30" height="30"> sharmaishan747@gmail.com / f2016773@pilani.bits-pilani.ac.in <br />
-<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/company.png" width="30" height="30"> sharmaishan747@icloud.com
+<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/brands-and-logotypes.png" width="20" height="20"> sharmaishan747@gmail.com / f2016773@pilani.bits-pilani.ac.in <br />
+<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/company.png" width="20" height="20"> sharmaishan747@icloud.com
 
 ## GitHub Stats
 
