@@ -15,3 +15,7 @@ Currently an undergrad student for <img src="https://github.com/iamishansharma/i
 [<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/linkedin.png" width="30" height="30">](https://www.linkedin.com/in/iamishansharma/)<br />
 <br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/brands-and-logotypes.png" width="30" height="30"> sharmaishan747@gmail.com / f2016773@pilani.bits-pilani.ac.in <br />
 <br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/company.png" width="30" height="30"> sharmaishan747@icloud.com
+
+## GitHub Stats
+
+![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=iamishansharma&show_icons=true&theme=radical)
