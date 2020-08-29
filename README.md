@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Banner.jpg" align="center" width="400" height="166">
+<img src="https://github.com/iamishansharma/iamishansharma/blob/master/Banner.jpg" align="center" width="400" height="133">
 </p>
 
 Currently an undergrad student for <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/flask.png" width="30" height="30"> MSc. Chemistry and <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/monitor.png" width="30" height="28"> B.E. Computer Science at BITS Pilani, Pilani Campus
