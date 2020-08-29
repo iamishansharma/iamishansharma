@@ -15,4 +15,4 @@ Currently an undergrad student for <img src="https://github.com/iamishansharma/i
 
 ## GitHub Stats
 
-![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=iamishansharma&show_icons=true&theme=radical&count_private=true&hide=contribs,issues,stars)
+![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=iamishansharma&show_icons=true&theme=radical&count_private=true&hide=contribs,issues,stars)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamishansharma&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
