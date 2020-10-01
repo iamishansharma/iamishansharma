@@ -13,4 +13,4 @@ Currently an undergrad student for <img src="https://github.com/iamishansharma/i
 
 ## GitHub Stats
 
-![Ishan's github stats](https://github-readme-stats.vercel.app/api?username=iamishansharma&hide=contribs,prs) <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamishansharma&layout=compact&theme=radical&hide=jupyter%20notebook" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamishansharma&show_icons=true&theme=radical&count_private=true&hide=contribs,issues,stars" /> <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=iamishansharma&layout=compact&theme=radical&hide=jupyter%20notebook" />
