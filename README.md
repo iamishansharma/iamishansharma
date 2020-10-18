@@ -2,8 +2,8 @@
 <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Banner.jpg" align="center" width="400" height="133">
 </p>
 
-Currently an undergrad student for <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/flask.png" width="30" height="30"> MSc. Chemistry and <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/monitor.png" width="30" height="28"> B.E. Computer Science at <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/bitslogo.png" width="30" height="30"> BITS Pilani, Pilani Campus
-<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/piano.png" width="30" height="30"> Keyboardist, <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/electric-guitar.png" width="30" height="30"> Guitarist and an avid   <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/f1.png" width="60" height="23"> Formula1 Fan
+<!--- Currently an undergrad student for <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/flask.png" width="30" height="30"> MSc. Chemistry and <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/monitor.png" width="30" height="28"> B.E. Computer Science at <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/bitslogo.png" width="30" height="30"> BITS Pilani, Pilani Campus
+<br /> <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/piano.png" width="30" height="30"> Keyboardist, <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/electric-guitar.png" width="30" height="30"> Guitarist and an avid   <img src="https://github.com/iamishansharma/iamishansharma/blob/master/Icons/f1.png" width="60" height="23"> Formula1 Fan -->
 
 ## Where to find me?
 
